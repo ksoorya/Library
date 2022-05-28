@@ -1,3 +1,10 @@
+<?php
+include "__lib/load.php";
+database::getconnection();
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
